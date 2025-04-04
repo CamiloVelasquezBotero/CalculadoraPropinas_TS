@@ -1,6 +1,6 @@
 ### CalculadorDePropinas_TS
 
-Simulacion Tienda de guitarras con carrito de compra para tienda online, se aplican las siguientes tecnologias y metodologias:
+Simulacion de Sistema Para Restaurante para calcular las propinas y los totales, se utilizan las siguientes tecnologias y metodologias:
   - React
   - Javascript
   - TypeScript
@@ -8,6 +8,7 @@ Simulacion Tienda de guitarras con carrito de compra para tienda online, se apli
   - TailwindCss
   - Hecho con Vite
   - Se mejora el performance renderizando componentes especificos
-  - Se utiliza (useMemo) para mejorar el rendimiento, la renderizacion e actualizacion de la pagina
+  - Se utilizan hooks como (useState) (useMemo) para mejorar el rendimiento, la renderizacion e actualizacion de la pagina
+  - Se crea y se utiliza Hooks personalizados para administrar las ordenes
 
 PREVIEW: https://calculadora-propinas-ts-one.vercel.app/
